@@ -1,0 +1,10 @@
+mr_robot_firmware :
+  motor_rpm : 100  
+  wheel_diameter : 0.06
+  wheel_separation : 0.13
+  max_pwm_val : 100 
+  min_pwm_val : 30
+  leftA : 12
+  leftB : 13
+  rightA : 20
+  rightB : 21
